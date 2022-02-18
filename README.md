@@ -1,2 +1,0 @@
-# dael.github.io
-del
